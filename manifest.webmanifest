@@ -1,0 +1,16 @@
+{
+  "name": "Cruce Calidad Paltas ACQ",
+  "short_name": "Cruce Paltas",
+  "description": "Registro de cruce de calidad de paltas, funciona sin conexión.",
+  "lang": "es",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f5ef",
+  "theme_color": "#2f6b2f",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
