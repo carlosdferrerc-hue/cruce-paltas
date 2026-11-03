@@ -1,6 +1,6 @@
 /* Guarda la app en el teléfono para que abra sin internet.
    Al publicar una versión nueva, cambia el número de VERSION. */
-const VERSION = "cpa-v1";
+const VERSION = "cpa-v2";
 const FILES = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", e => {
